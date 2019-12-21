@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Crown-Clothing/static/css/main.42d2f23e.chunk.css",
-    "main.js": "/Crown-Clothing/static/js/main.5da9267e.chunk.js",
-    "main.js.map": "/Crown-Clothing/static/js/main.5da9267e.chunk.js.map",
+    "main.css": "/Crown-Clothing/static/css/main.c665a973.chunk.css",
+    "main.js": "/Crown-Clothing/static/js/main.c610f9e9.chunk.js",
+    "main.js.map": "/Crown-Clothing/static/js/main.c610f9e9.chunk.js.map",
     "runtime-main.js": "/Crown-Clothing/static/js/runtime-main.8ea2c933.js",
     "runtime-main.js.map": "/Crown-Clothing/static/js/runtime-main.8ea2c933.js.map",
-    "static/js/2.e6deb38e.chunk.js": "/Crown-Clothing/static/js/2.e6deb38e.chunk.js",
-    "static/js/2.e6deb38e.chunk.js.map": "/Crown-Clothing/static/js/2.e6deb38e.chunk.js.map",
+    "static/js/2.741707a5.chunk.js": "/Crown-Clothing/static/js/2.741707a5.chunk.js",
+    "static/js/2.741707a5.chunk.js.map": "/Crown-Clothing/static/js/2.741707a5.chunk.js.map",
     "index.html": "/Crown-Clothing/index.html",
-    "precache-manifest.a4bde843a7936cb30bb541f3addecd47.js": "/Crown-Clothing/precache-manifest.a4bde843a7936cb30bb541f3addecd47.js",
+    "precache-manifest.75ee2fd3bfa4d057b9e24e909e7be236.js": "/Crown-Clothing/precache-manifest.75ee2fd3bfa4d057b9e24e909e7be236.js",
     "service-worker.js": "/Crown-Clothing/service-worker.js",
-    "static/css/main.42d2f23e.chunk.css.map": "/Crown-Clothing/static/css/main.42d2f23e.chunk.css.map",
-    "static/js/2.e6deb38e.chunk.js.LICENSE": "/Crown-Clothing/static/js/2.e6deb38e.chunk.js.LICENSE",
+    "static/css/main.c665a973.chunk.css.map": "/Crown-Clothing/static/css/main.c665a973.chunk.css.map",
+    "static/js/2.741707a5.chunk.js.LICENSE": "/Crown-Clothing/static/js/2.741707a5.chunk.js.LICENSE",
     "static/media/crown.ed28accb.svg": "/Crown-Clothing/static/media/crown.ed28accb.svg",
     "static/media/hats.png": "/Crown-Clothing/static/media/hats.c11d6415.png",
     "static/media/jackets.png": "/Crown-Clothing/static/media/jackets.f32f54ad.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8ea2c933.js",
-    "static/js/2.e6deb38e.chunk.js",
-    "static/css/main.42d2f23e.chunk.css",
-    "static/js/main.5da9267e.chunk.js"
+    "static/js/2.741707a5.chunk.js",
+    "static/css/main.c665a973.chunk.css",
+    "static/js/main.c610f9e9.chunk.js"
   ]
 }
