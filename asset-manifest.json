@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Crown-Clothing/static/css/main.1fa1d276.chunk.css",
-    "main.js": "/Crown-Clothing/static/js/main.94a73687.chunk.js",
-    "main.js.map": "/Crown-Clothing/static/js/main.94a73687.chunk.js.map",
+    "main.css": "/Crown-Clothing/static/css/main.dfffcf3d.chunk.css",
+    "main.js": "/Crown-Clothing/static/js/main.f7c602f4.chunk.js",
+    "main.js.map": "/Crown-Clothing/static/js/main.f7c602f4.chunk.js.map",
     "runtime-main.js": "/Crown-Clothing/static/js/runtime-main.8ea2c933.js",
     "runtime-main.js.map": "/Crown-Clothing/static/js/runtime-main.8ea2c933.js.map",
-    "static/js/2.b6b80fc6.chunk.js": "/Crown-Clothing/static/js/2.b6b80fc6.chunk.js",
-    "static/js/2.b6b80fc6.chunk.js.map": "/Crown-Clothing/static/js/2.b6b80fc6.chunk.js.map",
+    "static/js/2.36d554ac.chunk.js": "/Crown-Clothing/static/js/2.36d554ac.chunk.js",
+    "static/js/2.36d554ac.chunk.js.map": "/Crown-Clothing/static/js/2.36d554ac.chunk.js.map",
     "index.html": "/Crown-Clothing/index.html",
-    "precache-manifest.26d536be242a3a1df014ba67633db11b.js": "/Crown-Clothing/precache-manifest.26d536be242a3a1df014ba67633db11b.js",
+    "precache-manifest.9b01d767b34851b71e302cde41ddf481.js": "/Crown-Clothing/precache-manifest.9b01d767b34851b71e302cde41ddf481.js",
     "service-worker.js": "/Crown-Clothing/service-worker.js",
-    "static/css/main.1fa1d276.chunk.css.map": "/Crown-Clothing/static/css/main.1fa1d276.chunk.css.map",
-    "static/js/2.b6b80fc6.chunk.js.LICENSE": "/Crown-Clothing/static/js/2.b6b80fc6.chunk.js.LICENSE",
+    "static/css/main.dfffcf3d.chunk.css.map": "/Crown-Clothing/static/css/main.dfffcf3d.chunk.css.map",
+    "static/js/2.36d554ac.chunk.js.LICENSE": "/Crown-Clothing/static/js/2.36d554ac.chunk.js.LICENSE",
     "static/media/adidas-nmd.png": "/Crown-Clothing/static/media/adidas-nmd.5d8daf12.png",
     "static/media/black-converse.png": "/Crown-Clothing/static/media/black-converse.bcf873e5.png",
     "static/media/black-shearling.png": "/Crown-Clothing/static/media/black-shearling.30b6f651.png",
@@ -57,8 +57,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8ea2c933.js",
-    "static/js/2.b6b80fc6.chunk.js",
-    "static/css/main.1fa1d276.chunk.css",
-    "static/js/main.94a73687.chunk.js"
+    "static/js/2.36d554ac.chunk.js",
+    "static/css/main.dfffcf3d.chunk.css",
+    "static/js/main.f7c602f4.chunk.js"
   ]
 }
