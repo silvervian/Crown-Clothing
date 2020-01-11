@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Crown-Clothing/static/css/main.8b1aa309.chunk.css",
-    "main.js": "/Crown-Clothing/static/js/main.52300c27.chunk.js",
-    "main.js.map": "/Crown-Clothing/static/js/main.52300c27.chunk.js.map",
+    "main.css": "/Crown-Clothing/static/css/main.d27729a0.chunk.css",
+    "main.js": "/Crown-Clothing/static/js/main.70bdfcd6.chunk.js",
+    "main.js.map": "/Crown-Clothing/static/js/main.70bdfcd6.chunk.js.map",
     "runtime-main.js": "/Crown-Clothing/static/js/runtime-main.fbeca42b.js",
     "runtime-main.js.map": "/Crown-Clothing/static/js/runtime-main.fbeca42b.js.map",
     "static/js/2.5dca7749.chunk.js": "/Crown-Clothing/static/js/2.5dca7749.chunk.js",
     "static/js/2.5dca7749.chunk.js.map": "/Crown-Clothing/static/js/2.5dca7749.chunk.js.map",
     "index.html": "/Crown-Clothing/index.html",
-    "precache-manifest.e497c9b63d1111f9b32e2d3cbf160b48.js": "/Crown-Clothing/precache-manifest.e497c9b63d1111f9b32e2d3cbf160b48.js",
+    "precache-manifest.4ce8e5483b9c61005e11efc350cdf80a.js": "/Crown-Clothing/precache-manifest.4ce8e5483b9c61005e11efc350cdf80a.js",
     "service-worker.js": "/Crown-Clothing/service-worker.js",
-    "static/css/main.8b1aa309.chunk.css.map": "/Crown-Clothing/static/css/main.8b1aa309.chunk.css.map",
+    "static/css/main.d27729a0.chunk.css.map": "/Crown-Clothing/static/css/main.d27729a0.chunk.css.map",
     "static/js/2.5dca7749.chunk.js.LICENSE": "/Crown-Clothing/static/js/2.5dca7749.chunk.js.LICENSE",
     "static/media/adidas-nmd.png": "/Crown-Clothing/static/media/adidas-nmd.5d8daf12.png",
     "static/media/black-converse.png": "/Crown-Clothing/static/media/black-converse.bcf873e5.png",
@@ -58,7 +58,7 @@
   "entrypoints": [
     "static/js/runtime-main.fbeca42b.js",
     "static/js/2.5dca7749.chunk.js",
-    "static/css/main.8b1aa309.chunk.css",
-    "static/js/main.52300c27.chunk.js"
+    "static/css/main.d27729a0.chunk.css",
+    "static/js/main.70bdfcd6.chunk.js"
   ]
 }
